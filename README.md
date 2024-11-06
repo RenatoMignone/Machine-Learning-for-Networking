@@ -23,4 +23,4 @@ The **Machine Learning for Networking** course covers topics that bridge the gap
 To get started with this repository:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/machine-learning-for-net
+   https://github.com/RenatoMignone/Machine-Learning-for-Networking
